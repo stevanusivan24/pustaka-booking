@@ -1,5 +1,5 @@
 <footer align="center">
-    <p>Copyright &copy;RentalBuku 2021</p>
+    <p>Copyright &copy;Rental Buku 2021</p>
 </footer>
 </div>
 </body>
