@@ -7,6 +7,7 @@ class Penjualan extends CI_Controller
         $this->load->view('view_form_penjualan');
     }
 
+    
     public function print()
     {
         $this->form_validation->set_rules('nama', 'Nama Pembeli', 'required|min_length[3]', array(
