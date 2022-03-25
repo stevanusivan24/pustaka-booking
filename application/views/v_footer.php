@@ -1,7 +1,6 @@
-<footer align="center">
-    <p>Copyright &copy;Rental Buku 2021</p>
-</footer>
-</div>
+		<footer>
+			<a href="http://www.RentalBuku.com">RentalBuku</a>
+		</footer>
+	</div>
 </body>
-
 </html>
