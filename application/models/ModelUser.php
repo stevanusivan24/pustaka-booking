@@ -36,5 +36,4 @@ class ModelUser extends CI_Model
 
  
 
-
 }

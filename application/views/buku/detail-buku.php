@@ -22,7 +22,7 @@ style="max-width:100%; max-height: 100%; height: 150px; width: 120px">
  <td><?= $penerbit ?></td>
  <td>&nbsp;</td>
  <th>Dipinjam: </th>
- <td><?= $dipinjam ?></td>
+ <td><?= $dipinjam ?></td> 
  </tr>
  <tr>
  <th nowrap>Tahun Terbit: </th>

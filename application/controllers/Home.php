@@ -28,7 +28,7 @@ class Home extends CI_Controller
         $this->load->view('buku/daftarbuku', $data);
  
         $this->load->view('templates/templates-user/footer', $data);
-        }
+        } 
  }
         public function detailBuku()
         {

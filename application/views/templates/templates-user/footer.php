@@ -18,4 +18,4 @@ js"></script>
  $('.alert').alert().delay(3000).slideUp('slow');
 </script>
 </body>
-</html>
+</html> 

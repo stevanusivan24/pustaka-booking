@@ -30,4 +30,4 @@ echo "<i class='btn btn-outline-primary fas fw fa-shopping-cart'> Booking&nbsp;&
  </div>
  </div>
  </div>
- </div>
+ </div> 
